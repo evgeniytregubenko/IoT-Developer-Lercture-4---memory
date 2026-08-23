@@ -1,4 +1,4 @@
-# ESP32 Sensor Data, Heap and Bitwise Debug
+# Специфіка Embedded: пам'ять, оптимізація та обробка помилок
 
 Навчальний проєкт для ESP32, створений у PlatformIO та протестований у симуляторі Wokwi.
 
@@ -562,7 +562,7 @@ Lecture 4-Heap_bitwise_debug/
 
 Налаштування Wokwi Simulator та шляхів до скомпільованих файлів прошивки.
 
-### MEMORY.md
+### memory_explain.md
 
 Окремий теоретичний матеріал:
 
